@@ -1,4 +1,4 @@
-# 📦 ByteStream
+# 💨 ByteStream
 
 **Effortless serialization in Go – Convert your data into `[]byte` with ease!**
 
