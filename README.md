@@ -11,10 +11,10 @@ ByteStream is a lightweight and efficient Go library for serializing and deseria
 
 ## ✨ Features
 
-✅ **Easy-to-use**: Simple API for encoding/decoding.
-✅ **Lightweight & Fast**: Optimized for performance.
-✅ **Flexible**: Supports multiple encoding formats.
-✅ **Go idiomatic**: Designed with Go best practices in mind.
+✅ **Easy-to-use**: Simple API for encoding/decoding.  
+✅ **Lightweight & Fast**: Optimized for performance.  
+✅ **Flexible**: Supports multiple encoding formats.  
+✅ **Go idiomatic**: Designed with Go best practices in mind.  
 
 ## 📦 Installation
 
