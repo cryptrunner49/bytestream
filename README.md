@@ -74,7 +74,7 @@ fmt.Println("Decoded User:", decodedUser)
 
 ## 📜 License
 
-ByteStream is licensed under the [MIT License](LICENSE).
+ByteStream is licensed under the [GPL-3.0 License](LICENSE).
 
 ## 🤝 Contributing
 
